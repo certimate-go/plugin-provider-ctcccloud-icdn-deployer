@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "ctcccloud",
+  "binary": "ctcccloud-icdn.exe",
+  "capability": "deploy",
+  "category": "cdn",
+  "display_name_key": "plugin.ctcccloud-icdn.name",
+  "icon": "ctcccloud.svg",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "ctcccloud-icdn",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
